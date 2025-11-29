@@ -1,0 +1,5 @@
+{
+  "name": "Transformer 架构 3D 演示",
+  "description": "Transformer 神经网络架构的交互式 3D 可视化。点击组件并通过 Gemini AI 了解它们的工作原理。",
+  "requestFramePermissions": []
+}
